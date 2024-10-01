@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Pise</h1>
-<h3 align="center">Software developer with 1.5 years of hands-on experience skilled in Java, React, and Spring Boot with proficiency in Spring
+<h3 align="center">Software developer with 1.5+ years of hands-on experience skilled in Java, React, and Spring Boot with proficiency in Spring
 framework and MySQL database.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshpise&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshpise" /> </p>
