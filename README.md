@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Pise</h1>
-<h3 align="center">A Web Development enthusiast and a Software Engineer from India</h3>
+<h3 align="center">Software developer with 1.5 years of hands-on experience skilled in Java, React, and Spring Boot with proficiency in Spring
+framework and MySQL database.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshpise&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshpise" /> </p>
 
 - 🌱 I’m currently learning **DSA**
 
-- 📝 I regularly write articles on [https://rushikeshpise.hashnode.dev/](https://rushikeshpise.hashnode.dev/)
-
-- 💬 Ask me about **Html,Css,Javascript,ReactJs,Mysql**
+- 💬 Ask me about **ReactJS,Springboot,Java,MYSQL,Springframework**
 
 - 📫 How to reach me **rushikeshpise11@gamil.com**
 
