@@ -6,7 +6,7 @@ framework and MySQL database.</h3>
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **ReactJS,Springboot,Java,MYSQL,Springframework**
+- 💬 Ask me about **ReactJS, Springboot, Java, MYSQL, Springframework**
 
 - 📫 How to reach me **rushikeshpise11@gamil.com**
 
